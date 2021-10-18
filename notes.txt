@@ -1,2 +1,0 @@
-# to change the background color
-    <body style="background-color:#ffee77">

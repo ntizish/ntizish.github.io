@@ -63,6 +63,8 @@ html {
 }
 
 .screen1 {
+  width: 1440px;
+  height: 1147px;
   display: block;
   position: relative;
   background: url("../images/First screen.png") 100% auto;

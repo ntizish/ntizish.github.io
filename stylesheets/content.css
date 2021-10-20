@@ -1,0 +1,39 @@
+body {
+  font-family: 'HalvarBreit';
+  position: relative;
+  width: 1440px;
+  height: 6480px;
+  display: block;
+  margin: 0 auto;
+  background: #F0C243;
+}
+
+html {
+  background: #F0C243;
+  height: 6480px;
+  position: relative;
+  scroll-behavior: smooth;
+
+
+}
+.cover1 {
+  font-family: "HalvarBreit-Blk";
+  font-size: 150px;
+  text-align: center;
+  padding-top: 184px;
+  color: #BC271C;
+}
+
+.cover2 {
+  font-family: "HalvarBreit-LtSlanted";
+  font-size: 150px;
+  text-align: center;
+  color: #BC271C;
+  letter-spacing: 6px;
+}
+
+.img1 {
+  position: absolute;
+  z-index: 2;
+  margin-top: -275px;
+}

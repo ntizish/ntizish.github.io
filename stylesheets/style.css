@@ -1,27 +1,3 @@
 @import 'reset.css';
 @import 'fonts.css';
-
-
-body {
-  font-family: 'HalvarBreit';
-  position: relative;
-  width: 1440px;
-  height: 100%;
-  display: block;
-  margin: 0 auto;
-  background: #FFFFFF;
-}
-
-html {
-  background: #F0C243;
-  height: 6480px;
-  position: relative;
-  scroll-behavior: smooth;
-
-
-}
-
-
-h1 {
-  font-family: "HalvarBreit-BdSlanted";
-}
+@import 'content.css'

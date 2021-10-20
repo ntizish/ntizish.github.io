@@ -30,10 +30,21 @@ html {
   text-align: center;
   color: #BC271C;
   letter-spacing: 6px;
+  padding-top: 20px;
+  padding-left: 45px;
 }
 
 .img1 {
-  position: absolute;
   z-index: 2;
-  margin-top: -275px;
+  margin-top: -298px;
+}
+
+.screen1 {
+  height: 1147px;
+  background-image: url("images/First screen.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  margin: 0 auto;
+
 }

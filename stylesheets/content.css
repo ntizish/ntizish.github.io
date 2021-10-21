@@ -296,7 +296,7 @@ html {
 .s5standart {
   font-family: "HalvarBreit-Bd";
   font-size: 14px;
-  padding-left: 44px;
+  padding-left: 34px;
   padding-top: 84px;
   color: #F0C243;
 }
@@ -381,3 +381,42 @@ html {
   display: inline-block;
   float: left;
 }
+
+.screen7 {
+  width: 1041px;
+  height: 684px;
+  margin-top: 117px;
+  margin-left: 55px;
+  display: flex;
+  position: relative;
+  background-repeat: no-repeat;
+  background-image: url("../images/Seventh screen.svg");
+  background-size: 100% auto;
+}
+
+.s7buttondesc {
+	font-family: "HalvarBreit-LtSlanted";
+    font-size: 36px;
+	width: 246px;
+	height: 42px;
+    padding-left: 235px;
+    padding-top: 168px;
+    letter-spacing: 1px;
+  	display: inline-block;
+    color: #BC271C;
+}
+
+.s7switchdesc {
+	font-family: "HalvarBreit-LtSlanted";
+    font-size: 32px;
+	width: 109px;
+	height: 28px;
+    padding-left: 330px;
+    padding-top: 95px;
+    letter-spacing: 1px;
+  	display: inline-block;
+    color: #F0C243;
+}
+
+
+
